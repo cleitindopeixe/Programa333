@@ -24,7 +24,7 @@ const tempos = [tempoObjetivo1,tempoObjetivo2,tempoObjetivo3,tempoObjetivo4];
 
 
 function calculaTempo(tempoObjetivo) {
-    let tempoAtual =const botoes = document.querySelectorAll(".botao");
+    let tempoAtual =constbotoes = document.querySelectorAll(".botao");
     const textos = document.querySelectorAll(".aba-conteudo");
     
     for(let i=0;i <botoes.length;i++){
